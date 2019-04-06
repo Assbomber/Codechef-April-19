@@ -1,3 +1,17 @@
+/*
+Chef and Dhyey have become friends recently. Chef wants to test Dhyey's intelligence by giving him a puzzle to solve.
+
+The puzzle contains an integer sequence A1,A2,…,AN. The answer to the puzzle is the maximum of Ai%Aj, taken over all valid i, j.
+
+Help Dhyey solve this puzzle.
+::::::Sample:::::
+Input:
+5  
+1 2 3 4 5 
+output: 
+4
+*/
+
 import java.util.Scanner;
 
 public class Main {
